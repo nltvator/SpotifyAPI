@@ -13,6 +13,8 @@
  pip install python-dotenv
 
  Make sure and create a .env file for your own configuration settings.
+ If you don't have your Client ID and Secret you can get them here:
+ https://developer.spotify.com/dashboard/applications
 
  CLIENT_ID=
  CLIENT_SECRET=
