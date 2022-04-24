@@ -1,6 +1,8 @@
 # SpotifyAPI
  Pulling information through Spotify's API connection.
- This program can pull an artist's top tracks and related artists.
+ This program can pull an artist's top tracks and related artists through Spotify's API connection.
+ Here's the official website:
+ https://developer.spotify.com
 
  This program is using Python 3.10. You can download Python here:
  https://www.python.org/downloads/
