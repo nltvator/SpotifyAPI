@@ -5,6 +5,9 @@ def GettingToken():
 
     load_dotenv()
 
+    #You can login to Spotify using the alternative method below. 
+    #However, I would recommend using the SpotipyAUTH package instead.
+
     clientID = os.environ.get('ClientID')
     clientSecret=os.environ.get('ClientSecret')
 
